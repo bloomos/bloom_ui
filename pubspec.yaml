@@ -1,0 +1,25 @@
+name: bloom_ui
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^4.3.2+2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: fonts/Inter-Regular.otf
+        - asset: fonts/Inter-Medium.otf
+          weight: 500
+        - asset: fonts/Inter-SemiBold.otf
+          weight: 600
+        - asset: fonts/Inter-Bold.otf
+          weight: 700
