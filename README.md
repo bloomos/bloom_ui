@@ -1,16 +1,7 @@
-# bloom
+# bloom_ui
 
-A new Flutter project.
+UI components for Flutter that look at home on Bloom OS.
 
-## Getting Started
+**Note:** This library is under heavy construction and not ready for any use.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For an idea of what we're building towards, see this Figma mockup of System 1: https://www.figma.com/file/cw2b3EqLdfUmcHFUW2Ep2V/Untitled
